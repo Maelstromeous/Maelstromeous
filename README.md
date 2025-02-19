@@ -13,3 +13,45 @@ Hello! I'm Maelstromeous aka Matt Cavanagh. I'm a full stack engineer who's pass
 
 ## Satisfactory Factories
 [Satisfactory Factories](https://satisfactory-factories.app) ([GitHub](https://github.com/satisfactory-factories/application)) is a web based Factory Logistics designer / planner for the game [Satisfactory](https://www.satisfactorygame.com/). It enables users to keep track of what their factory is producing, how those products are then shipped to other factories, and it ensures the user has full analysis on how items are distributed, alerting the user of any errors.
+
+# My tools of choice
+
+## Frontend
+<p align="left">
+  <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Sass.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Nuxt-JS.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Veutify.svg" alt="c" width="40" height="40"/>
+
+</p>
+
+## Backend
+<p align="left">
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" alt="AWS" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/Cloudflare.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Kibana.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" alt="c" width="40" height="40"/> 
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" alt="c" width="40" height="40"/>
+</p>
+
+## Other
+<p align="left">
+  <img src="https://icon.icepanel.io/Technology/svg/Arch-Linux.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Homebrew.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/PhpStorm.svg" alt="c" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg" alt="c" width="40" height="40"/>
+</p>
